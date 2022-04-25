@@ -1,0 +1,7 @@
+#NavbarContainer {
+    height: 48px;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 12px;
+}
